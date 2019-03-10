@@ -1,0 +1,11 @@
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\bin\Debug\netcoreapp2.1\TCPTest.deps.json
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\bin\Debug\netcoreapp2.1\TCPTest.runtimeconfig.json
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\bin\Debug\netcoreapp2.1\TCPTest.runtimeconfig.dev.json
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\bin\Debug\netcoreapp2.1\TCPTest.dll
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\obj\Debug\netcoreapp2.1\TCPTest.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\obj\Debug\netcoreapp2.1\TCPTest.AssemblyInfoInputs.cache
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\obj\Debug\netcoreapp2.1\TCPTest.AssemblyInfo.cs
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\bin\Debug\netcoreapp2.1\TCPTest.pdb
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\obj\Debug\netcoreapp2.1\TCPTest.csprojAssemblyReference.cache
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\obj\Debug\netcoreapp2.1\TCPTest.dll
+C:\Users\Marius\Source\Repos\TCPTest\TCPTest\obj\Debug\netcoreapp2.1\TCPTest.pdb
