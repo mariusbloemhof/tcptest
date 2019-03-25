@@ -24,10 +24,10 @@ namespace TCPTest
     public static class AsynchronousClient
     {
         // The port number for the remote device.  
-        private const string hostName = "102.182.216.90";
+        //private const string hostName = "102.182.216.90";
         //private const string hostName = "197.234.175.66";
-        //private const string hostName = "192.168.101.110";
-        private const int port = 15011;
+        private const string hostName = "102.140.164.98";
+        private const int port = 4567;
 
         // ManualResetEvent instances signal completion.  
         private static ManualResetEvent connectDone =
@@ -50,8 +50,9 @@ namespace TCPTest
             var eventData = new EventData
             {
                 Event = new EventContent {
+                CustId = 828213175,
                 Seq = 2,
-                DeviceNo = "9999999",
+                DeviceNo = Guid.NewGuid().ToString(),
                 EventCode = "E120",
                 Latitude = 28.001557,
                 Longitude = -26.022695,
